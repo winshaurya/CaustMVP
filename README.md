@@ -40,6 +40,11 @@ it serves as proof of feasibility for the full caust project (a pytorch causal i
 mentor lijinghua zhang for clear guidance on building a minimal prototype.
 stagate authors and the spatial transcriptomics community for public datasets.
 
+### end visualisation
+
+<img width="863" height="505" alt="download" src="https://github.com/user-attachments/assets/1b15400e-22c4-4280-8a39-d8d39e587828" />
+ 
+
 this prototype shows that the core idea of caust is feasible and can produce measurable causal signals.
 
 ready for full implementation during the project 

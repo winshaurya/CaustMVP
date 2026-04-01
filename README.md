@@ -46,7 +46,6 @@ stagate authors and the spatial transcriptomics community for public datasets.
 
 <img width="863" height="505" alt="download" src="https://github.com/user-attachments/assets/1b15400e-22c4-4280-8a39-d8d39e587828" />
  
-<img width="1289" height="590" alt="download (2)" src="https://github.com/user-attachments/assets/b6a0321a-6225-4991-b349-be9f749a15eb" />
 
 
 this prototype shows that the core idea of caust is feasible and can produce measurable causal signals.

@@ -21,12 +21,10 @@ this colab notebook demonstrates a minimal but concrete prototype as requested b
 5. generates visualizations including side by side spatial plots and a bar plot of gene impact
 
 ### why we built this prototype
-the mentor specifically asked for preliminary results instead of just more text in the proposal. she suggested:
-
+Lijinghua ma'am specifically asked for preliminary results, she suggested:
 run a basic stagate pipeline on dlpfc sections and perform a simple gene perturbation knockout experiment. report some quantitative effect (changes in ari or embedding distance).
 
-this notebook delivers exactly that a small but working setup with clear quantitative signals and plots.
-
+i did exactly that a small but working setup with clear quantitative signals and plots.
 it serves as proof of feasibility for the full caust project (a pytorch causal intervention module).
 
 
